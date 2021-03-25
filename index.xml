@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D A N T E</title>
+    <link>https://dante.io/</link>
+    <description>Recent content on D A N T E</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Mar 2021 23:48:41 +0800</lastBuildDate><atom:link href="https://dante.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://dante.io/posts/hello-world/</link>
+      <pubDate>Wed, 24 Mar 2021 23:48:41 +0800</pubDate>
+      
+      <guid>https://dante.io/posts/hello-world/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+  </channel>
+</rss>
