@@ -13,14 +13,7 @@
       <pubDate>Sat, 27 Mar 2021 14:39:30 +0800</pubDate>
       
       <guid>https://dante.io/posts/build-hugo-site/</guid>
-      <description>跟熊壕合租的服务器忘了续费，以前的博客没了。索性来用免费的Github Pages，而静态网站生成器则用Hugo。当然，Cloudflare也要继续用。
-使用静态网站生成器+Github Pages有很多种方式，有的是将整个博客的源码和生成后的内容都放在一个分支下，以目录区分，有的是用两个分支（比如master和gh-pages）。但是做了一些功课之后，我选择将源码和生成的内容保存在两个repo，并将“生成”这一步交给Github Actions。
-准备Github Repository 创建Repository 在Github上创建两个repo：
- 一个用来存储Github Pages，名字是username.github.io，例如我的是dantewang.github.io 一个用来存储Hugo网站的源文件，可以是private的，名字随意  配置Actions 参考Github提供的教程，创建SSH Key：
-ssh-keygen -t ed25519 -C &amp;quot;your_email@example.com&amp;quot; -f path/to/file 这里指定了不同的路径和文件名，以免覆盖git命令用来连接Github的Key。
-然后，分别配置两个repo：
- 在Github Pages repo的 Settings -&amp;gt; Deploy Key 中 Add new secrets，填入公钥文件（*.pub）的内容 在Hugo源文件repo的 Settings -&amp;gt; Secrets 中 Add new secrets，取名为ACTIONS_DEPLOY_KEY，填入私钥文件的内容  git clone第二个repo，添加.github/workflows/gh_pages.yml，内容如下：
-name: hugo publish on: push: branches: - master jobs: build-deploy: runs-on: ubuntu-18.04 steps: - uses: actions/checkout@v2 with: submodules: true fetch-depth: 0 - name: Setup Hugo uses: peaceiris/actions-hugo@v2 with: hugo-version: &#39;latest&#39; extended: true - name: Build run: hugo --minify - name: Deploy uses: peaceiris/actions-gh-pages@v3 with: deploy_key: ${{ secrets.</description>
+      <description>基于Hugo、Github Pages和Github Actions的博客的迁移笔记</description>
     </item>
     
     <item>
@@ -32,23 +25,7 @@ name: hugo publish on: push: branches: - master jobs: build-deploy: runs-on: ubu
       <description>Hello World!</description>
     </item>
     
-    <item>
-      <title>搜索</title>
-      <link>https://dante.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dante.io/search/</guid>
-      <description>search</description>
-    </item>
     
-    <item>
-      <title>日志归档</title>
-      <link>https://dante.io/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dante.io/archives/</guid>
-      <description>archives</description>
-    </item>
     
   </channel>
 </rss>
