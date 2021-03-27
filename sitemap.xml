@@ -17,5 +17,9 @@
     <loc>https://dante.io/categories/</loc>
   </url><url>
     <loc>https://dante.io/tags/</loc>
+  </url><url>
+    <loc>https://dante.io/search/</loc>
+  </url><url>
+    <loc>https://dante.io/archives/</loc>
   </url>
 </urlset>
