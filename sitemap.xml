@@ -21,5 +21,7 @@
     <loc>https://dante.io/search/</loc>
   </url><url>
     <loc>https://dante.io/archives/</loc>
+  </url><url>
+    <loc>https://dante.io/links/</loc>
   </url>
 </urlset>
