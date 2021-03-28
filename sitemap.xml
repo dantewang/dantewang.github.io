@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dante.io/tags/cloudflare/</loc>
+    <lastmod>2021-03-27T14:39:30+08:00</lastmod>
+  </url><url>
     <loc>https://dante.io/</loc>
     <lastmod>2021-03-27T14:39:30+08:00</lastmod>
   </url><url>
+    <loc>https://dante.io/tags/github-actions/</loc>
+    <lastmod>2021-03-27T14:39:30+08:00</lastmod>
+  </url><url>
+    <loc>https://dante.io/tags/github-pages/</loc>
+    <lastmod>2021-03-27T14:39:30+08:00</lastmod>
+  </url><url>
+    <loc>https://dante.io/tags/hugo/</loc>
+    <lastmod>2021-03-27T14:39:30+08:00</lastmod>
+  </url><url>
     <loc>https://dante.io/posts/</loc>
+    <lastmod>2021-03-27T14:39:30+08:00</lastmod>
+  </url><url>
+    <loc>https://dante.io/tags/</loc>
     <lastmod>2021-03-27T14:39:30+08:00</lastmod>
   </url><url>
     <loc>https://dante.io/posts/build-hugo-site/</loc>
@@ -15,8 +30,6 @@
     <lastmod>2021-03-24T23:48:41+08:00</lastmod>
   </url><url>
     <loc>https://dante.io/categories/</loc>
-  </url><url>
-    <loc>https://dante.io/tags/</loc>
   </url><url>
     <loc>https://dante.io/search/</loc>
   </url><url>
