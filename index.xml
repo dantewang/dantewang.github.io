@@ -6,7 +6,16 @@
     <description>Recent content on dante_blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Mar 2021 14:39:30 +0800</lastBuildDate><atom:link href="https://dante.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Mar 2021 23:24:10 +0800</lastBuildDate><atom:link href="https://dante.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我们Edge的“集锦”真是太好用啦！</title>
+      <link>https://dante.io/posts/microsoft-edge-collection-is-good/</link>
+      <pubDate>Sun, 28 Mar 2021 23:24:10 +0800</pubDate>
+      
+      <guid>https://dante.io/posts/microsoft-edge-collection-is-good/</guid>
+      <description>看上去同样是把网页链接保存下来，集锦与收藏夹会有多大区别？</description>
+    </item>
+    
     <item>
       <title>用Hugo构建新博客</title>
       <link>https://dante.io/posts/build-hugo-site/</link>

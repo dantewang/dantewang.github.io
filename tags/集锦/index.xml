@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>集锦 on dante_blog</title>
+    <link>https://dante.io/tags/%E9%9B%86%E9%94%A6/</link>
+    <description>Recent content in 集锦 on dante_blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Mar 2021 23:24:10 +0800</lastBuildDate><atom:link href="https://dante.io/tags/%E9%9B%86%E9%94%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我们Edge的“集锦”真是太好用啦！</title>
+      <link>https://dante.io/posts/microsoft-edge-collection-is-good/</link>
+      <pubDate>Sun, 28 Mar 2021 23:24:10 +0800</pubDate>
+      
+      <guid>https://dante.io/posts/microsoft-edge-collection-is-good/</guid>
+      <description>看上去同样是把网页链接保存下来，集锦与收藏夹会有多大区别？</description>
+    </item>
+    
+  </channel>
+</rss>
