@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dante.io/posts/2021-may-trip-to-shanghai/</loc>
+    <lastmod>2021-05-05T21:20:10+08:00</lastmod>
+  </url><url>
+    <loc>https://dante.io/</loc>
+    <lastmod>2021-05-05T21:20:10+08:00</lastmod>
+  </url><url>
+    <loc>https://dante.io/posts/</loc>
+    <lastmod>2021-05-05T21:20:10+08:00</lastmod>
+  </url><url>
+    <loc>https://dante.io/tags/</loc>
+    <lastmod>2021-05-05T21:20:10+08:00</lastmod>
+  </url><url>
+    <loc>https://dante.io/tags/%E4%B8%8A%E6%B5%B7/</loc>
+    <lastmod>2021-05-05T21:20:10+08:00</lastmod>
+  </url><url>
     <loc>https://dante.io/tags/collections/</loc>
     <lastmod>2021-03-28T23:24:10+08:00</lastmod>
   </url><url>
-    <loc>https://dante.io/</loc>
-    <lastmod>2021-03-28T23:24:10+08:00</lastmod>
-  </url><url>
     <loc>https://dante.io/tags/microsoft-edge/</loc>
-    <lastmod>2021-03-28T23:24:10+08:00</lastmod>
-  </url><url>
-    <loc>https://dante.io/posts/</loc>
-    <lastmod>2021-03-28T23:24:10+08:00</lastmod>
-  </url><url>
-    <loc>https://dante.io/tags/</loc>
     <lastmod>2021-03-28T23:24:10+08:00</lastmod>
   </url><url>
     <loc>https://dante.io/posts/microsoft-edge-collection-is-good/</loc>
